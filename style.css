@@ -42,7 +42,9 @@ body {
   flex-flow: row nowrap;
   gap: 6px;
 }
-
+.misc {
+  font-weight: 700;
+}
 .calculatorResult {
   flex: auto;
   display: flex;
